@@ -1,0 +1,15 @@
+.hello {
+  color: grey;
+  border: 2px dotted red;
+  width: 300px;
+  padding: 2em;
+  margin: 30px auto 0;
+  background-color: aqua;
+  text-align: center;
+  text-transform: capitalize;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-decoration: none;
+  text-align: left;
+}/*# sourceMappingURL=card.min.css.map */
